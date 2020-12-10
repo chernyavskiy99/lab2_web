@@ -39,6 +39,7 @@
   background-color: var(--main-color);
   border: none;
   border-radius: 50%;
+  cursor: pointer;
 }
 
 .favorite-item__button::after {
